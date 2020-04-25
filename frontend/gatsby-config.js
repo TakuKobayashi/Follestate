@@ -1,7 +1,8 @@
 /* eslint-disable quotes */
 module.exports = {
+  pathPrefix: "/",
   siteMetadata: {
-    title: `My website`,
+    title: `Follestate`,
     googleVerification: `abcdefz`,
     disqus: `gatsby-typescript`
   },
